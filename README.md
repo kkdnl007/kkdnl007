@@ -1,12 +1,3 @@
-[![Stars](https://img.shields.io/github/stars/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/stargazers)
-[![Fork](https://img.shields.io/github/forks/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/ddgksf2013/ddgksf2013?label=Commits)](https://github.com/ddgksf2013/ddgksf2013/commits/master)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
-[![Issues](https://img.shields.io/github/issues/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013/ddgksf2013/issues)
-[![](https://img.shields.io/github/last-commit/ddgksf2013/ddgksf2013)](https://github.com/ddgksf2013)
-[![](https://img.shields.io/github/followers/ddgksf2013?label=follow&style=social)](https://github.com/ddgksf2013)
-
-![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)  
 
 > [!IMPORTANT]
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
