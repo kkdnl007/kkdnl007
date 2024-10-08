@@ -1,5 +1,6 @@
 
 > [!IMPORTANT]
+> [***源码来自@ddgksf2013***]
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/ddgksf2013/ddgksf2013/issues)
 
 ## 1️⃣QuantumultX 小白2.0配置：
